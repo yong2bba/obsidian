@@ -1,0 +1,1 @@
+<% tp.user.date.now(dateTimeFormat) %>

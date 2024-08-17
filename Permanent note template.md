@@ -3,7 +3,7 @@ aliases:
 tags: 
 date:
 ---
-<% tp.user.cratedate() %>
+<% tp.user.date.now(dateTimeFormat) %>
 
 ## Origin Text
 
