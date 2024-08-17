@@ -5,16 +5,12 @@ created:
 updated:
 ---
 
-## Origin Text
+## MEMO
 
+## Origin Text
 
 ## Source
 
-
-## MEMO
-
-
 ## Thought
-
 
 ## Connect
