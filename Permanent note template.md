@@ -3,7 +3,7 @@ aliases:
 tags: 
 date:
 ---
-<% tp.user.date.now(dateTimeFormat) %>
+<% tp.user.dateupdate(updated) %>
 
 ## Origin Text
 
