@@ -52,7 +52,7 @@ updated: ${date}
       }
 
       if (rowIndexFound !== -1) {
-        editor.replaceRange("\n" + text, CodeMirror.Pos(rowIndexFound));
+        editor.replaceRange("\n" + text, { line: rowIndexFound, ch: 0 });
       }
 
       return rowIndexFound === -1 ? undefined : rowIndexFound + 1;
@@ -61,7 +61,7 @@ updated: ${date}
     await insertAfterLine("---", frontMatterBody);
   } else {
     const insertFirst = async (text) => {
-      editor.replaceRange(text, CodeMirror.Pos(0, 0));
+      editor.replaceRange(text, { line: 0, ch: 0 });
     };
 
     const noteBody = `---
