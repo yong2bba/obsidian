@@ -1,9 +1,8 @@
 ---
 aliases: 
-tags: 
-date: 
-updated:
+tags:
 ---
+<%* await tp.user.update_metadata(); %>
 
 
 ## Origin Text
