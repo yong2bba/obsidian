@@ -1,9 +1,10 @@
 ---
 aliases: 
 tags: 
-date:
+date: 
+updated:
 ---
-<% tp.user.dateupdate(updated:now) %>
+<% tp.user.dateupdate() %>
 
 ## Origin Text
 
