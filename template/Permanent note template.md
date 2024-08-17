@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags:
+tags: 
+created: 
+updated:
 ---
 
 ## Origin Text
@@ -15,4 +17,4 @@ tags:
 ## Thought
 
 
-## 연결
+## Connect
