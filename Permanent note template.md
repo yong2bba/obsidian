@@ -2,8 +2,6 @@
 aliases: 
 tags:
 ---
-<%* await tp.user.update_metadata(); %>
-
 
 ## Origin Text
 
